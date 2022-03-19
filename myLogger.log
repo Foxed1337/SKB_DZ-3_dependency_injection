@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-03-16T14:01:01.486459700Z</date>
+  <millis>1647439261486</millis>
+  <nanos>459700</nanos>
+  <sequence>3</sequence>
+  <logger>com.example.SKB_DZ._dependency_injection.MusicPlayer</logger>
+  <level>INFO</level>
+  <class>com.example.SKB_DZ._dependency_injection.MusicPlayer</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Бин класса MusicPlayer создался</message>
+</record>
+</log>
